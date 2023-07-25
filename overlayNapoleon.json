@@ -8,6 +8,14 @@
         ],
         "x": 1132,
         "y": 1461
+      },
+      {
+        "name": "grognard",
+        "sources": [
+          "https://i.imgur.com/VT7RIwW.png"
+        ],
+        "x": 1132,
+        "y": 1542
       }
     ],
     "whitelist": [],
