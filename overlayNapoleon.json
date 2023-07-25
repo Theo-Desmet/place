@@ -1,0 +1,16 @@
+{
+    "contact": "r/NapoleonFR",
+    "templates": [
+      {
+        "name": "fleur de lys brefouns",
+        "sources": [
+          "https://raw.githubusercontent.com/Brefouns/napoleon/main/fleurdelys.png"
+        ],
+        "x": 1132,
+        "y": 1461
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
+  
